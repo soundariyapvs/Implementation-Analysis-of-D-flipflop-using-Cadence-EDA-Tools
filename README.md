@@ -1,4 +1,4 @@
-#EXP-3 Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
+#Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
 Ex No: 01     Implementation & Analysis of D-flipflop using Cadence EDA Tools   
 
 Aim:
